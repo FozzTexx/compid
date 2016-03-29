@@ -1,0 +1,13 @@
+Created by Chris Osborn <fozztexx@fozztexx.com>
+http://insentricity.com/
+
+This is intended to be a program that will run on any computer that
+runs BASIC which will be able to identify what model of computer it
+is. I doubt it will really be possible since there are a lot of
+differences in each BASIC, as well as some computers are extremely
+limited in the amount of memory they have and I'm sure this program
+will quickly get too big to fit.
+
+See also:
+
+https://en.wikipedia.org/wiki/User:FozzTexx/List_of_Computers_With_On-Board_BASIC
