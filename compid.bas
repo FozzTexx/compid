@@ -1,3 +1,5 @@
+10 REM Created by Chris Osborn <fozztexx@fozztexx.com>
+20 REM http://insentricity.com
 
 1000 REM Identify Apple II
 1010 REM http://www.1000bit.it/support/manuali/apple/technotes/misc/tn.misc.07.html
